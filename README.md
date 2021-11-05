@@ -1,6 +1,6 @@
-# **Module 13 Challenge: Venture Funding with Deep Learning**
+# **Venture Funding with Deep Learning**
 
-## Venture Funding with Deep Learning
+## Overview
 
 This neural network model is used to create a prediction application to learn the applicants' successful rate if funded by Alphabet Soup. The preiction application takes into account four different alternative models as a way to learn different techniques on the neural network model that could potentially increase the model accuracy and decrease the model loss.
 
